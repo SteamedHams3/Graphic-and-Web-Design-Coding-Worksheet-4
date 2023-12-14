@@ -1,6 +1,4 @@
 
-
-
 body{
     background-color: #F2F2F2;
 }
@@ -8,7 +6,7 @@ body{
 /* header sytles */
 
 header {
-    background-color: #F29F05;
+    background-color: purple;
     padding: 10px 0px 10px 0px;
 }
 
@@ -35,7 +33,6 @@ li {
     
     height: 200px;
     flex: 1 1 auto;
-
 }
 
 .box2 {
